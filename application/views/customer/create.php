@@ -5,7 +5,6 @@
 
 <div class="col-md-6">
 <?php echo validation_errors(); ?>
-
 <?php echo form_open('customer/create') ?>
 	<div class="form-group">
 	    <label>Username</label>
